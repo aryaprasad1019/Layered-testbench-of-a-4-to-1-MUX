@@ -36,7 +36,7 @@ The design is verified using 20 transactions. The scoreboard checks whether the 
 
 ## Simulation Platform
 EDA Playground
-Project Link: https://edaplayground.com/x/wpj_
+Project Link:https://edaplayground.com/x/wpj_
 
 ## Technologies Used
 - SystemVerilog
